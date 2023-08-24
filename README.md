@@ -13,7 +13,7 @@ I love **Golang** and **vim**.
 
 Recent important events below 👇🏻
 
-> I am looking for a job in software development
+> I am looking for a job in software development and struggling with COVID-19.
 
 <details>
   <summary>More...</summary>
