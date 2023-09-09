@@ -8,7 +8,7 @@ I love **open source development** and **something geeky**.
 I love **Golang** and **vim**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/QiQi-OvO)
-- 💬  [What do I write? (**HomePage**)](https://twitter.com/fkadev)
+- 💬  [What do I write? (**HomePage**)](https://www.qiqi-note.top/)
 - 🏹  [**My Resume**](http://47.92.101.195:7778/resume.pdf)
 
 Recent important events below 👇🏻
