@@ -13,7 +13,7 @@ I love **Golang** and **vim**.
 
 Recent important events below 👇🏻
 
-> I am looking for a job in software development and getting lost in the Test of Administrative Competency.
+> I am preparing for my campus recruitment. And as of now, I have received 3 offers.
 
 <details>
   <summary>More...</summary>
