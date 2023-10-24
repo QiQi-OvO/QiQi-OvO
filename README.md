@@ -13,7 +13,7 @@ I love **Golang** and **vim**.
 
 Recent important events below 👇🏻
 
-> I am preparing for my campus recruitment. And as of now, I have received 3 offers.
+> I am preparing for my campus recruitment. And as of now, I have received 6 offers.
 
 <details>
   <summary>More...</summary>
