@@ -8,12 +8,12 @@ I love **open source development** and **something geeky**.
 I love **Golang** and **vim**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/QiQi-OvO)
-- 💬  [What do I write? (**HomePage**)](https://www.qiqi-note.top/)
-- 🏹  [**My Resume**](http://47.92.101.195:7778/resume.pdf)
+- 💬  [What do I write? (**Server Expiration**)](https://www.qiqi-note.top/)
+- 🏹  [**My Resume (Server Expiration)**](http://47.92.101.195:7778/resume.pdf)
 
 Recent important events below 👇🏻
 
-> I am preparing for my campus recruitment. And as of now, I have received 6 offers.
+> Work! Work!
 
 <details>
   <summary>More...</summary>
